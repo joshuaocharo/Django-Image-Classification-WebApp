@@ -9,6 +9,8 @@ Tensorflow
 
 Pillow
 
+Django(VirtualEnv)
+
 ## Requirements to be fulfilled
 1. Trained Model on ImageNet dataset
 2. Keras based model dump
